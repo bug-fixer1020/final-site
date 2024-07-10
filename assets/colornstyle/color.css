@@ -1,0 +1,24 @@
+
+/* font add */
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+.project-font {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.hero-bg{
+  width: 100%;
+  height: 652px;
+  position: absolute;
+  margin: 0 ;
+  top: 131px;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+}
+.grp-logo{
+  align-self: stretch;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
